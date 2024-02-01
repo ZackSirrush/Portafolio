@@ -48,7 +48,7 @@ Puedes revisar mi CV para obtener más detalles sobre mi educación, experiencia
 - Email: [isaacnabortorres@gmail.com](mailto:isaacnabortorres@gmail.com)
 - LinkedIn: [Isaac Nabor](https://www.linkedin.com/in/isaacnabor/)
 - GitHub: [ZackSirrush](https://github.com/ZackSirrush)
-- Twitter: [Isaac Nabor](https://twitter.com/ZackSirrush)
+- Twitter: [@ZackSirrush](https://twitter.com/ZackSirrush)
 - Instagram: [isaac.sirrush.nabor](https://www.instagram.com/isaac.sirrush.nabor/)
 
 ¡Gracias por visitar mi portafolio! Si tienes alguna pregunta o comentario, no dudes en contactarme.
