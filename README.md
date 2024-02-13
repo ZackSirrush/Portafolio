@@ -23,7 +23,7 @@ Puedes revisar mi CV para obtener más detalles sobre mi educación, experiencia
    - Descripción: Desarrollo de un sitio web para una institución escolar ficticia de nivel medio superior.
    - Tecnologías utilizadas: HTML 5, CSS, PHP, Bootstrap.
 
-   [GitHub Pages](https://zacksirrush.github.io/Practica-InstitutoGO/)
+   [Más detalles](https://zacksirrush.github.io/Portafolio/prepaes1921.html)
 
 ### Aplicaciones Móviles
 
