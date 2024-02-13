@@ -13,33 +13,45 @@ Puedes revisar mi CV para obtener más detalles sobre mi educación, experiencia
 
 ### Proyectos Web
 
-1. **Nombre del Proyecto Web 1**
-   - Descripción breve del proyecto.
-   - Tecnologías utilizadas: [Lista de Tecnologías].
+1. **Despacho Contable Nabor**
+   - Descripción: Desarrollo de un sitio web para el Despacho Contable Nabor. Este proyecto incluyó la adquisición del dominio y hosting, creación de la imagen empresarial, lanzamiento del sitio web y campañas de publicidad en medios electrónicos y redes sociales.
+   - Tecnologías utilizadas: HTML 5, CSS, JavaScript y Bootstrap (framework front-end)
 
-2. **Nombre del Proyecto Web 2**
-   - Descripción breve del proyecto.
-   - Tecnologías utilizadas: [Lista de Tecnologías].
+   [Más detalles](https://despachonabor.com/)
+
+   2. **Preparatoria ES1921**
+   - Descripción: Desarrollo de un sitio web para una institución escolar ficticia de nivel medio superior.
+   - Tecnologías utilizadas: HTML 5, CSS, PHP, Bootstrap.
+
+   [GitHub Pages](https://zacksirrush.github.io/Practica-InstitutoGO/)
 
 ### Aplicaciones Móviles
 
-1. **Nombre de la App Móvil 1**
-   - Descripción breve de la aplicación.
-   - Tecnologías utilizadas: [Lista de Tecnologías].
+1. **Ecuación de circunferencia**
+   - Descripción: Aplicación para calcular una circunferencia basada en coordenadas y longitud de radio.
+   - Tecnologías utilizadas: Kotlin, Java.
 
-2. **Nombre de la App Móvil 2**
-   - Descripción breve de la aplicación.
-   - Tecnologías utilizadas: [Lista de Tecnologías].
+   [Más detalles](https://zacksirrush.github.io/Portafolio/ecuacioncircunf.html)
+
+2. **Fichas instrumentales**
+   - Descripción: Aplicación para mostrar fichas técnicas de instrumentos musicales.
+   - Tecnologías utilizadas: Kotlin, Java.
+
+   [Más detalles](https://zacksirrush.github.io/Portafolio/fichasinstrumentos.html)
 
 ### Aplicaciones de Escritorio
 
-1. **Nombre de la App de Escritorio 1**
-   - Descripción breve de la aplicación.
-   - Tecnologías utilizadas: [Lista de Tecnologías].
+1. **Plantas endémicas**
+   - Descripción: Aplicación para optimizar el manejo de una base de datos de ventas de plantas endémicas.
+   - Tecnologías utilizadas: C#, .NET, Windows Forms, MySQL.
 
-2. **Nombre de la App de Escritorio 2**
-   - Descripción breve de la aplicación.
-   - Tecnologías utilizadas: [Lista de Tecnologías].
+   [Más detalles](https://zacksirrush.github.io/Portafolio/plantas.html)
+
+2. **Registro de flotillas**
+   - Descripción: Aplicación para registrar vehículos y personal de una compañía de transportes.
+   - Tecnologías utilizadas: C#, .NET, Windows Forms, SQLServer.
+
+   [Más detalles](https://zacksirrush.github.io/Portafolio/registrovehic.html)
 
 ## Datos de Contacto
 
@@ -48,7 +60,7 @@ Puedes revisar mi CV para obtener más detalles sobre mi educación, experiencia
 - Email: [isaacnabortorres@gmail.com](mailto:isaacnabortorres@gmail.com)
 - LinkedIn: [Isaac Nabor](https://www.linkedin.com/in/isaacnabor/)
 - GitHub: [ZackSirrush](https://github.com/ZackSirrush)
-- Twitter: [Isaac Nabor](https://twitter.com/ZackSirrush)
+- Twitter: [@ZackSirrush](https://twitter.com/ZackSirrush)
 - Instagram: [isaac.sirrush.nabor](https://www.instagram.com/isaac.sirrush.nabor/)
 
 ¡Gracias por visitar mi portafolio! Si tienes alguna pregunta o comentario, no dudes en contactarme.
